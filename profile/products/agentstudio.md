@@ -9,9 +9,7 @@
 ![platform](https://img.shields.io/badge/platform-macOS-000000?logo=apple&logoColor=white)
 [![Open](https://img.shields.io/badge/Open-agentstudio-3c5a3a?logo=apple&logoColor=white)](https://zuuzii.com/productions/agentstudio/)
 
-<!-- screenshot → add profile/assets/products/agentstudio.png then uncomment:
-<img alt="AgentStudio screenshot" src="../assets/products/agentstudio.png" width="100%">
--->
+<img alt="AgentStudio — no-code dual-agent macOS workbench" src="../assets/products/agentstudio/cover.png" width="100%">
 
 ---
 

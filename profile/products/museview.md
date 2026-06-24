@@ -9,9 +9,7 @@
 ![platform](https://img.shields.io/badge/platform-iOS-000000?logo=apple&logoColor=white)
 [![Open](https://img.shields.io/badge/Open-museview-3c5a3a?logo=apple&logoColor=white)](https://zuuzii.com/productions/museview/)
 
-<!-- screenshot → add profile/assets/products/museview.png then uncomment:
-<img alt="MuseView screenshot" src="../assets/products/museview.png" width="100%">
--->
+<img alt="MuseView — local-first Markdown and HTML reader" src="../assets/products/museview/cover.png" width="100%">
 
 ---
 

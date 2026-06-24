@@ -9,9 +9,7 @@
 ![platform](https://img.shields.io/badge/platform-Web-1f6feb?logo=googlechrome&logoColor=white)
 [![Open](https://img.shields.io/badge/Open-aihunter.zuuzii.com-3c5a3a?logo=googlechrome&logoColor=white)](https://aihunter.zuuzii.com)
 
-<!-- screenshot → add profile/assets/products/aihunter.png then uncomment:
-<img alt="AI Tools Library screenshot" src="../assets/products/aihunter.png" width="100%">
--->
+<img alt="AI Tools Library — daily-curated AI tools directory" src="../assets/products/aihunter/cover.png" width="100%">
 
 ---
 
@@ -41,6 +39,10 @@ New AI tools appear faster than anyone can keep up with, and most "lists" are SE
 
 <details><summary>Is it free? · 收费吗？</summary><br>Browsing the directory is free. Each listed tool has its own pricing. · 浏览目录免费；具体工具按各自定价。</details>
 <details><summary>How are tools chosen? · 工具怎么选的？</summary><br>Hand-picked and categorized — we favor tools worth trying over exhaustive coverage. · 人工挑选归类，重「值得一试」而非「大而全」。</details>
+
+<br>
+
+<img alt="AI Tools Library — overview" src="../assets/products/aihunter/promo.png" width="100%">
 
 ---
 

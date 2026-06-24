@@ -9,9 +9,7 @@
 ![platform](https://img.shields.io/badge/platform-Web-1f6feb?logo=googlechrome&logoColor=white)
 [![Open](https://img.shields.io/badge/Open-ai__warmup-3c5a3a?logo=googlechrome&logoColor=white)](https://zuuzii.com/productions/ai-warmup/)
 
-<!-- screenshot → add profile/assets/products/ai-warmup.png then uncomment:
-<img alt="AI Warmup screenshot" src="../assets/products/ai-warmup.png" width="100%">
--->
+<img alt="AI Warmup — online AI image creative studio" src="../assets/products/ai-warmup/cover.png" width="100%">
 
 ---
 
@@ -41,6 +39,19 @@ Powerful image models are scattered across heavy tools and clunky setups. AI War
 
 <details><summary>Do I need to install anything? · 要装东西吗？</summary><br>No — it runs in the browser. · 不用，浏览器直接用。</details>
 <details><summary>How is it billed? · 怎么计费？</summary><br>By points, generated on the spot. · 按积分，即时生成。</details>
+
+## Examples · 示例
+
+<table>
+<tr>
+<td width="50%" align="center"><img alt="Portrait restyle example" src="../assets/products/ai-warmup/demo-portrait.jpg" width="100%"><br><sub>Portrait restyle · 人像重绘</sub></td>
+<td width="50%" align="center"><img alt="Oil-painting style transfer example" src="../assets/products/ai-warmup/demo-style-oil.jpg" width="100%"><br><sub>Style transfer · 风格化（油画）</sub></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img alt="Old-photo restoration example" src="../assets/products/ai-warmup/demo-restore.jpg" width="100%"><br><sub>Photo restore · 老照片修复</sub></td>
+<td width="50%" align="center"><img alt="Black-and-white colorization example" src="../assets/products/ai-warmup/demo-colorize.jpg" width="100%"><br><sub>Colorize · 黑白上色</sub></td>
+</tr>
+</table>
 
 ---
 

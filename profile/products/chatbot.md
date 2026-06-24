@@ -9,9 +9,7 @@
 ![platform](https://img.shields.io/badge/platform-WeChat-07C160?logo=wechat&logoColor=white)
 [![Open](https://img.shields.io/badge/Open-AI__Companions-3c5a3a?logo=wechat&logoColor=white)](https://zuuzii.com/productions/chatbot/)
 
-<!-- screenshot → add profile/assets/products/chatbot.png then uncomment:
-<img alt="AI Companions screenshot" src="../assets/products/chatbot.png" width="100%">
--->
+<img alt="AI Companions — WeChat AI personas you can scan and chat with" src="../assets/products/chatbot/cover.png" width="100%">
 
 ---
 

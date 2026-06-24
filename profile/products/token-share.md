@@ -9,9 +9,7 @@
 ![platform](https://img.shields.io/badge/platform-Local-444444)
 [![Open](https://img.shields.io/badge/Open-token__share-3c5a3a)](https://zuuzii.com/productions/token-share/)
 
-<!-- screenshot → add profile/assets/products/token-share.png then uncomment:
-<img alt="Token Share screenshot" src="../assets/products/token-share.png" width="100%">
--->
+<img alt="Token Share — local LLM API gateway" src="../assets/products/token-share/cover.png" width="100%">
 
 ---
 
@@ -41,6 +39,10 @@ Every client speaks a slightly different API; switching models or providers mean
 
 <details><summary>Where do my API keys go? · 我的 key 去哪了？</summary><br>They stay local — Token Share runs on your machine and doesn't ship keys anywhere. · 留在本地，Token Share 在你机器上运行，不会把 key 发去任何地方。</details>
 <details><summary>Does it support streaming? · 支持流式吗？</summary><br>Yes, streaming responses are passed through. · 支持，流式响应会被透传。</details>
+
+<br>
+
+<img alt="Token Share — overview" src="../assets/products/token-share/promo.png" width="100%">
 
 ---
 
