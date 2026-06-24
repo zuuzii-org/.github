@@ -161,24 +161,13 @@ zuuzii serves not only work, but imagination too — refining every product and 
 
 ## Team
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
+<div align="center">
 
-**[Leemysw](https://leemysw.com/)**
-<br>
-Brand & Design
+<a href="https://leemysw.com/"><img alt="Leemysw — Brand & Design" src="./assets/team/leemysw-en.svg" width="47%"></a>
+&nbsp;&nbsp;
+<a href="https://www.zoytown.com"><img alt="Zoy — Engineering & AI" src="./assets/team/zoy-en.svg" width="47%"></a>
 
-</td>
-<td width="50%" align="center" valign="top">
-
-**[Zoy](https://www.zoytown.com)**
-<br>
-Engineering & AI
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
