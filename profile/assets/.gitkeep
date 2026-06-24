@@ -1,0 +1,12 @@
+# Drop optional images here (committed into the .github repo).
+# Referenced from ../README.md as ./assets/<name>.
+#
+# Optional, suggested names & sizes:
+#   banner-light.png / banner-dark.png   ~1200×300
+#   thumb-aihunter.png                    ~600×360
+#   thumb-museview.png                    ~600×360
+#   thumb-agentstudio.png                 ~600×360
+#   thumb-tokenshare.png                  ~600×360
+#   thumb-aiwarmup.png                    ~600×360
+#   thumb-chatbot.png                     ~600×360
+#   avatar-leemysw.png / avatar-zoy.png   ~160×160 (square)
