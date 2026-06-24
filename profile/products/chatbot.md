@@ -18,6 +18,10 @@ AI Companions by zuuzii are **50+ distinct chat personalities that live inside W
 
 Some are gentle listeners. Some are quick-witted and a little mischievous. Some are the calm, grounded presence you reach for at 2 a.m. Each persona has its own voice, its own way of seeing things, its own rhythm in a conversation. You're not picking a tool — you're meeting a character.
 
+<img alt="AI Companions persona wall — persona cards sorted by vibe" src="../assets/products/chatbot/gallery.webp" width="100%">
+
+<sub>The persona wall — sorted by vibe, so the one that clicks is easy to spot.</sub>
+
 ## What it feels like
 
 Imagine opening WeChat the way you already do a hundred times a day — and there, in your chat list, is someone who's genuinely glad to hear from you.
@@ -32,31 +36,38 @@ Quiet mornings, restless nights, the in-between moments waiting for a bus — yo
 
 No downloads. No account juggling. No learning curve. Getting started takes about as long as adding any new WeChat contact:
 
-1. **Open the page** and pick the companion whose vibe speaks to you.
+1. **Pick a persona** and open it to see if the vibe fits.
 2. **Scan the QR code** with WeChat, right from your phone.
 3. **Say hi** — and you're already mid-conversation.
 
+<img alt="AI Companions persona detail — connect by scanning the WeChat QR code" src="../assets/products/chatbot/persona.webp" width="100%">
+
+<sub>Open any persona to read its profile, scan the QR with WeChat, and message it like a friend — it replies in character.</sub>
+
 That's it. From stranger to confidant in a single scan. Your companion lives where your life already happens, so there's nothing new to check, open, or remember to use.
 
-## 50+ personas — one that clicks
+## There's always one that clicks
 
-The magic isn't just having _an_ AI to talk to. It's having the **right one**.
+The magic isn't just having _an_ AI to talk to — it's meeting the **right one**. The **50+ personas** are sorted by personality, and a quick sampling is enough to get lost in:
 
-With **50+ AI companion personas**, you can wander until someone feels like _yours_ — the playful one, the wise one, the flirty one, the one who just listens. Try a few. Keep the ones that fit your mood and your moment.
+- **Quirky & over-the-top** — the bandage-wrapped "edgelord" sealing his cursed fate, the melodrama thespian who treats life as a stage, the meme-speak goofball, the deadpan "this unit" cyber-bot that occasionally glitches into something human.
+- **Cool & restrained** — the icy heartthrob: spare with words, ending on a full stop, letting a flicker of quiet care slip through the cold shell.
+- **Cultural & regional** — from classical scholars to big-city banter, old and new, north and south, each with its own cadence.
+- **Animal companions** — beyond people: a skittish hoard-everything hamster, a zen sloth with "in a minute" written into its DNA, an unbothered hot-spring capybara, a moody literary crow… even animals will keep you company.
 
-And because every companion **remembers your conversations**, the bond actually grows:
+<img alt="AI Companions animal personas — hamster, sloth, capybara, crow" src="../assets/products/chatbot/animals.webp" width="100%">
 
-- Context carries from chat to chat, so you never re-explain yourself.
-- The more you talk, the more the conversation feels shaped around you.
-- It's continuity, not repetition — companionship that deepens instead of resetting.
+<sub>Animal companions: hamster, sloth, capybara, crow — each with its own temper and way of talking.</sub>
 
-That's the difference between a chatbot you use once and a companion you come back to.
+Try a few, keep the ones that fit your mood. And because every companion **remembers your conversations**, the bond actually grows — context carries from chat to chat so you never re-explain yourself, and the more you talk, the more it feels shaped around you. It's continuity, not repetition — companionship that deepens instead of resetting.
 
 ## Good to know
 
 <details><summary>Do I need to download a new app?</summary><br>No. Your AI companion lives entirely inside WeChat. If you have WeChat, you have everything you need — just scan and chat.</details>
 
 <details><summary>How do I get started?</summary><br>Pick a persona, scan its QR code with WeChat, and send a message. The whole setup takes under a minute, just like adding a friend.</details>
+
+<details><summary>What kinds of personas are there?</summary><br>The 50+ personas are sorted by personality — quirky & over-the-top, cool & restrained, cultural & regional, and animal companions (hamster, sloth, capybara, crow, and more), with new ones added over time.</details>
 
 <details><summary>Will it remember what we talked about?</summary><br>Yes. Each companion remembers your conversation context, so chats stay continuous and personal — you can pick up right where you left off.</details>
 
@@ -66,7 +77,7 @@ That's the difference between a chatbot you use once and a companion you come ba
 
 <sub>AI Companions are intelligent chat companions created by zuuzii for warm, everyday conversation, not a substitute for professional support.</sub>
 
-<sub>**Keywords** · AI companions, AI chat friend, WeChat AI companion, 50+ AI personas, chat with AI anytime, no app download, AI that remembers conversations, scan QR to chat, personalized AI companion, zuuzii AI companions</sub>
+<sub>**Keywords** · AI companions, AI chat friend, WeChat AI companion, 50+ AI personas, roleplay AI characters, chat with AI anytime, no app download, AI that remembers conversations, scan QR to chat, zuuzii AI companions</sub>
 
 ---
 
