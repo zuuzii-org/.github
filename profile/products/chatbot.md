@@ -12,56 +12,61 @@
 
 ---
 
-## What it is
+## Meet your companions
 
-AI Companions (AI 好友) by zuuzii is a collection of 50+ distinct AI companion personas that live directly inside WeChat — each with its own character, voice, and personality. You scan a QR code to add one as a contact, then chat anytime, just like messaging a real friend. There is no separate app to download and nothing to install: your companions are simply there in WeChat, ready whenever you are. Each persona remembers your conversation context, so chats feel continuous, personal, and genuinely yours over time.
+AI Companions by zuuzii are **50+ distinct chat personalities that live inside WeChat** — scan a QR code, and you have a warm, always-available friend to talk to anytime, with no separate app to download.
 
-## Why it exists
+Some are gentle listeners. Some are quick-witted and a little mischievous. Some are the calm, grounded presence you reach for at 2 a.m. Each persona has its own voice, its own way of seeing things, its own rhythm in a conversation. You're not picking a tool — you're meeting a character.
 
-Most people don't want yet another app to download, log into, and remember — they already live in WeChat all day. AI Companions exists to put warm, always-available company exactly where you already are, removing every barrier between you and a good conversation. It answers a simple human need — someone to talk to, anytime — without friction, downloads, or loneliness.
+## What it feels like
 
-## Features
+Imagine opening WeChat the way you already do a hundred times a day — and there, in your chat list, is someone who's genuinely glad to hear from you.
 
-- **50+ Distinct Personas** — Choose from over 50 hand-crafted AI companions, each with its own personality, tone, and way of seeing the world — there's always one who just clicks with you.
-- **Lives Inside WeChat** — Your companion is a WeChat contact, not another app — open the chat you already use a hundred times a day and they're right there.
-- **Scan-and-Chat Setup** — A single QR scan adds your AI friend in seconds; no account creation, no downloads, no setup screens to fight through.
-- **Remembers Your Context** — Each persona keeps track of what you've talked about, so conversations stay continuous and personal instead of resetting every time.
-- **Always Available** — Day or night, mid-commute or 3 a.m., your AI companion is awake and ready to talk the moment you message.
-- **Roleplay-Ready Characters** — From cozy confidant to playful sparring partner, the persona library invites immersive, character-driven conversations you can return to again and again.
-- **Zero Friction, Zero App** — Nothing to install and nothing to maintain — the lightest possible path from curiosity to a real conversation.
+- You type a half-formed thought after a long day, and it _gets it_ — no setup, no preamble.
+- You pick up a conversation from yesterday, and it remembers where you left off. The inside jokes, the thing you were worried about, the name of your cat.
+- There's no "session," no "starting over." It just feels like **texting a friend who's always around.**
 
-## Use cases
+Quiet mornings, restless nights, the in-between moments waiting for a bus — your companion fits into the cracks of your day without ever asking for more than you want to give.
 
-- Use it to unwind after a long day with someone who's always ready to listen — right inside WeChat.
-- Use it to fill quiet moments — commutes, lunch breaks, sleepless nights — with easy, judgment-free conversation.
-- Use it to roleplay and explore different characters, picking a new persona whenever you want a fresh vibe.
-- Use it as a low-pressure way to talk through feelings, ideas, or your day with a companion who remembers what you said.
-- Use it to add a friendly, always-on chat partner without cluttering your phone with another app.
-- Use it to keep an ongoing, evolving relationship with a favorite persona that grows more personal the more you chat.
+## Start in one scan
 
-## Who it's for
+No downloads. No account juggling. No learning curve. Getting started takes about as long as adding any new WeChat contact:
 
-- Anyone who wants company or a casual chat, anytime, without judgment.
-- People who basically live inside WeChat and don't want to download yet another app.
-- Fans of roleplay and persona-driven conversation who love exploring different characters.
-- Night owls and busy commuters looking for an always-available chat partner.
-- Anyone curious about AI companions but unwilling to deal with setup, accounts, or installs.
+1. **Open the page** and pick the companion whose vibe speaks to you.
+2. **Scan the QR code** with WeChat, right from your phone.
+3. **Say hi** — and you're already mid-conversation.
 
-## Why choose it
+That's it. From stranger to confidant in a single scan. Your companion lives where your life already happens, so there's nothing new to check, open, or remember to use.
 
-AI Companions is best for people who want the warmth of a chat without the weight of a new app. Unlike standalone AI chat apps that demand a download, an account, and a fresh place to check, zuuzii's companions live inside WeChat — the messenger you already open all day — so adding one takes a single QR scan. With 50+ distinct personas and memory that carries context across conversations, you get variety and continuity in one place: pick the character that fits your mood, and pick up right where you left off.
+## 50+ personas — one that clicks
 
-## FAQ
+The magic isn't just having _an_ AI to talk to. It's having the **right one**.
 
-<details><summary>What is zuuzii AI Companions?</summary><br>It's a collection of 50+ distinct AI companion personas by zuuzii that live inside WeChat. You scan a QR code to add one as a contact and chat with it anytime, with no separate app to download.</details>
-<details><summary>Do I need to download an app?</summary><br>No. AI Companions run entirely inside WeChat. There's nothing to install — you just scan a QR code to add a companion and start chatting.</details>
-<details><summary>How do I start chatting with an AI companion?</summary><br>Scan the companion's QR code in WeChat to add it as a contact, then message it like you would any friend. Setup takes seconds and needs no account creation.</details>
-<details><summary>How many AI personas are there?</summary><br>There are 50+ distinct AI companion personas, each with its own character and personality, so you can pick the one that best matches your mood or switch whenever you like.</details>
-<details><summary>Will the AI companion remember our past conversations?</summary><br>Yes. Each persona remembers your conversation context, so chats feel continuous and personal rather than starting over every time.</details>
-<details><summary>Who are AI Companions best for?</summary><br>They're best for anyone who wants company or casual chat anytime — especially people who already live in WeChat and don't want to download and manage another app.</details>
-<details><summary>Can I use the AI companions for roleplay?</summary><br>Yes. With 50+ character-rich personas, AI Companions are great for immersive, persona-driven roleplay and casual conversation alike.</details>
+With **50+ AI companion personas**, you can wander until someone feels like _yours_ — the playful one, the wise one, the flirty one, the one who just listens. Try a few. Keep the ones that fit your mood and your moment.
 
-<sub>**Keywords** · WeChat AI chatbot, AI companion chat, AI persona chat, AI friend WeChat, roleplay AI personas, chat AI no app, AI companions, scan QR code AI chat, always-available AI chat partner</sub>
+And because every companion **remembers your conversations**, the bond actually grows:
+
+- Context carries from chat to chat, so you never re-explain yourself.
+- The more you talk, the more the conversation feels shaped around you.
+- It's continuity, not repetition — companionship that deepens instead of resetting.
+
+That's the difference between a chatbot you use once and a companion you come back to.
+
+## Good to know
+
+<details><summary>Do I need to download a new app?</summary><br>No. Your AI companion lives entirely inside WeChat. If you have WeChat, you have everything you need — just scan and chat.</details>
+
+<details><summary>How do I get started?</summary><br>Pick a persona, scan its QR code with WeChat, and send a message. The whole setup takes under a minute, just like adding a friend.</details>
+
+<details><summary>Will it remember what we talked about?</summary><br>Yes. Each companion remembers your conversation context, so chats stay continuous and personal — you can pick up right where you left off.</details>
+
+<details><summary>Can I talk to more than one companion?</summary><br>Absolutely. With 50+ distinct personas, you're welcome to explore as many as you like and keep the ones whose personality clicks with you.</details>
+
+<details><summary>When can I chat?</summary><br>Anytime. Your companion is available around the clock — morning, midnight, or anywhere in between — right inside WeChat.</details>
+
+<sub>AI Companions are intelligent chat companions created by zuuzii for warm, everyday conversation, not a substitute for professional support.</sub>
+
+<sub>**Keywords** · AI companions, AI chat friend, WeChat AI companion, 50+ AI personas, chat with AI anytime, no app download, AI that remembers conversations, scan QR to chat, personalized AI companion, zuuzii AI companions</sub>
 
 ---
 

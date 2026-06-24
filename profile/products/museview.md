@@ -12,55 +12,53 @@
 
 ---
 
-## What it is
+## MuseView, in one breath
 
-MuseView is a local-first Markdown and HTML reader app for iOS that keeps every file on your device. It renders Markdown and HTML faithfully, offers live preview with inline editing, exports to clean print-ready PDF, and generates AI summaries strictly on demand. Built for heavy readers, note-takers, and researchers, MuseView is the private, offline-first home for your folders of .md and .html files.
+MuseView is a local-first reader and editor for Markdown and HTML on iOS, where your files live on your device, render faithfully, and turn into clean PDFs — with AI summaries available only when you ask for them.
 
-## Why it exists
+That's the whole promise. Everything below is just the four things you'll actually do with it.
 
-Most Markdown apps quietly push your notes into someone else's cloud, turning private reading into a synced, scanned, monetizable stream. MuseView exists for people who want the opposite: a fast, beautiful reader where files stay on-device by default and nothing leaves unless you say so. It solves the tension between modern features and real privacy, giving you faithful rendering, editing, PDF export, and optional AI without surrendering ownership of your documents.
+## Read
 
-## Features
+Open a Markdown file or an HTML document and watch it render exactly as written — headings, code blocks, tables, links, and inline formatting, all typeset for the eye instead of the parser. MuseView treats reading as the main event, not a side effect of editing, so long-form notes and research dumps feel like a book, not a text field.
 
-- **Local-First Privacy** — Your Markdown and HTML files live on-device by default, with no forced cloud, no silent sync, and nothing leaving your iPhone unless you explicitly choose it.
-- **Faithful Rendering** — Markdown and HTML are rendered exactly as written, so headings, code blocks, tables, links, and styling appear clean and true to the source every time.
-- **Live Preview Editing** — Edit inline and watch the formatted preview update in real time, blurring the line between writing and reading into one fluid surface.
-- **Print-Ready PDF Export** — Turn any Markdown or HTML document into a crisp, professional, print-ready PDF in a tap, perfect for sharing, archiving, or handing in.
-- **On-Demand AI Summaries** — Ask for an AI summary only when you want one; the moment you do not, all reading and editing stay fully local and private.
-- **Offline-Ready Reading** — Open, read, and edit your library anywhere — on a plane, in a tunnel, off the grid — because MuseView never needs a connection to show your files.
-- **Built For Big Libraries** — Tame entire folders of .md and .html files in one calm, fast reader designed for people who measure their notes in hundreds, not handfuls.
+## Edit
 
-## Use cases
+Tap once and you're writing. Inline editing sits beside a **live preview**, so the formatted result updates as you type — no mode-switching, no guessing how the syntax will land. Fix a heading, restructure a list, or rework a paragraph, and the rendered page keeps pace with you.
 
-- Use it to read and review large folders of .md notes on your iPhone without uploading a single file to the cloud.
-- Use it to make quick inline edits to Markdown drafts and watch the live preview update as you type.
-- Use it to export research notes or documentation into clean, print-ready PDFs for sharing or submission.
-- Use it to open and faithfully render HTML documents and Markdown articles while completely offline.
-- Use it to generate an on-demand AI summary of a long document only when you actually want the gist.
+## Export
 
-## Who it's for
+When a document is ready to leave the app, send it out as a **clean, print-ready PDF** — properly paginated, faithfully styled, ready to share or archive. What you read is what you export.
 
-- Heavy readers who consume long-form Markdown and HTML on the go and want it to look right.
-- Note-takers and researchers sitting on folders of .md files they need to read, edit, and export.
-- Privacy-conscious users who refuse forced cloud sync and want documents to stay on-device.
-- Writers and students who need to turn Markdown drafts into polished, print-ready PDFs.
-- Knowledge workers who want optional AI summaries without giving up local, offline control.
+## Summarize
 
-## Why choose it
+Facing a wall of text? Ask MuseView for an **on-demand AI summary** and get the gist in seconds. This is the _only_ moment anything reaches beyond your device, and it happens solely on request. Reading, editing, and exporting never leave your phone.
 
-Choose MuseView when privacy is non-negotiable but you still refuse to give up modern features. Unlike cloud-first Markdown editors that sync your notes to remote servers by default, MuseView keeps every file on-device and treats AI as opt-in, not always-on. It is best for readers and researchers who want faithful Markdown and HTML rendering, inline editing, and clean PDF export in one private, offline-first iOS app — the rare reader that is local by default and intelligent only on request.
+## Local-first, on principle
 
-## FAQ
+Most apps treat your files as something to upload. MuseView treats them as something to **protect**.
 
-<details><summary>Is MuseView a local-first app, and do my files stay private?</summary><br>Yes. MuseView is local-first by design: your Markdown and HTML files stay on your iOS device by default, with no forced cloud and nothing leaving the app unless you explicitly choose it.</details>
-<details><summary>What file formats does MuseView read and render?</summary><br>MuseView faithfully reads and renders both Markdown (.md) and HTML documents, displaying headings, code blocks, tables, links, and styling true to the source.</details>
-<details><summary>Can I edit Markdown in MuseView, not just read it?</summary><br>Yes. MuseView supports inline editing with a live preview, so you can make changes and watch the formatted result update in real time on the same screen.</details>
-<details><summary>Can MuseView export Markdown to PDF?</summary><br>Yes. MuseView exports any Markdown or HTML document to a clean, print-ready PDF in a tap, ideal for sharing, archiving, or printing.</details>
-<details><summary>Does MuseView use AI, and is my reading sent to the cloud?</summary><br>MuseView offers AI summaries strictly on demand. They run only when you ask for one; otherwise all reading and editing stay local, so AI is opt-in rather than always-on.</details>
-<details><summary>Does MuseView work offline?</summary><br>Yes. Because files are stored on-device, you can open, read, render, and edit your entire library completely offline, without any internet connection.</details>
-<details><summary>Who is MuseView best for?</summary><br>MuseView is best for heavy readers, note-takers, and researchers with folders of .md and .html files who want faithful rendering, private on-device storage, and clean PDF export on iOS.</details>
+Your documents stay on-device by default. There's no silent sync, no background harvesting, no account standing between you and your own words. The only data that ever travels is the text you deliberately hand over for a summary — and nothing more.
 
-<sub>**Keywords** · local-first Markdown reader iOS, Markdown HTML reader app, export Markdown to PDF, private document reader, offline Markdown app, on-device Markdown editor, iOS Markdown viewer, AI document summary app</sub>
+This isn't a setting you toggle. It's the posture the app is built from: _your reading is yours_. For researchers handling sensitive drafts, note-takers guarding half-formed ideas, and heavy readers who simply prefer ownership over convenience, that distinction is the entire point.
+
+## Questions worth asking
+
+<details><summary>Does MuseView upload my files anywhere?</summary><br>No. Your Markdown and HTML files stay on-device. The only thing that ever leaves is text you explicitly send for an AI summary — reading, editing, and PDF export are fully local.</details>
+
+<details><summary>Which formats can I open and edit?</summary><br>Markdown and HTML, both rendered faithfully with a live preview and inline editing.</details>
+
+<details><summary>How does the AI summary work?</summary><br>It's strictly on-demand. Nothing is summarized automatically — you ask, and only then does the relevant text get sent off to generate a concise summary.</details>
+
+<details><summary>What does the PDF export look like?</summary><br>Clean and print-ready: properly paginated and styled to match what you see on screen, so it's ready to share, print, or archive.</details>
+
+<details><summary>Who is MuseView for?</summary><br>Heavy readers, note-takers, and researchers — anyone who works with Markdown or HTML and wants faithful rendering, frictionless editing, and files that stay private.</details>
+
+<details><summary>Do I need an account or internet connection?</summary><br>Core reading, editing, and exporting work entirely on-device. A connection is only needed when you request an AI summary.</details>
+
+<sub>MuseView is available on iOS. Local-first by design; AI summaries are optional and request-only.</sub>
+
+<sub>**Keywords** · local-first Markdown reader iOS, Markdown and HTML editor app, on-device file privacy, Markdown to PDF export, live preview inline editing, on-demand AI summary, faithful Markdown rendering, reader app for researchers and note-takers</sub>
 
 ---
 

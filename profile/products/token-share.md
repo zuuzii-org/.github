@@ -12,60 +12,65 @@
 
 ---
 
-## What it is
+## TL;DR
 
-Token Share is a fully local LLM API gateway that lets you point any client at a single local endpoint and reach any provider or model. It translates between the OpenAI and Anthropic protocols in real time, so a tool built for one API format can talk seamlessly to the other. Streaming works end-to-end, and because everything runs on your own machine, your API keys never leave it. It is built for developers who juggle multiple models and multiple clients and want one stable address to rule them all.
+**Token Share is a fully local LLM API gateway that exposes one endpoint, translates between the OpenAI and Anthropic protocols in real time, and lets any client talk to any provider or model — without your API keys ever leaving your machine.**
 
-## Why it exists
+Point your tools at `localhost`. Token Share does the rest.
 
-Modern developers run a dozen clients and chase a moving target of models, but every tool speaks a different protocol and expects a different API key, turning "just switch the model" into a config rewrite. Token Share collapses that chaos into one local endpoint that translates protocols on the fly. It exists so you can change providers or models in seconds without changing your code, and without ever shipping your keys to a third party.
+## The problem
 
-## Features
+Every client speaks one dialect. Every provider speaks another. Your editor wants OpenAI-shaped requests; the model you actually want to use speaks Anthropic — or vice versa. So you end up maintaining a drawer full of adapters, shims, and brittle proxy scripts, re-keying credentials into five different config files, and praying nothing leaks. Switching models means switching tools. Switching tools means re-wiring everything.
 
-- **Universal Protocol Bridge** — Translates between OpenAI and Anthropic formats in real time, so any client can talk to any provider without rewriting a single line of code.
-- **One Local Endpoint** — Point every client at a single self-hosted address and reach every model behind it — one URL to rule your entire LLM stack.
-- **Keys Never Leave Home** — Everything runs locally, so your API keys stay on your machine and never touch a third-party server.
-- **End-to-End Streaming** — Token-by-token streaming flows cleanly from provider to client, preserving the responsive, real-time feel your apps depend on.
-- **Instant Provider Switching** — Swap models or providers in seconds by changing config at the gateway, not by re-engineering every client you own.
-- **Any Client, Any Model** — Mix and match tools and models freely — a client built for one API can now drive a model from an entirely different ecosystem.
-- **Self-Hosted by Design** — Runs entirely on your own infrastructure, giving you full control, zero vendor lock-in, and no data leaving your perimeter.
+Token Share collapses that mess into a single local hop.
 
-## Use cases
+## Before / After
 
-- Use it to drive an Anthropic model from a client that only speaks the OpenAI API — or vice versa — with zero code changes.
-- Use it to A/B test the same prompt across providers by switching the model at the gateway instead of in every app.
-- Use it to keep your API keys fully local while still routing requests to multiple cloud LLM providers.
-- Use it to give a whole team of tools and IDE plugins one stable local endpoint instead of a tangle of per-client configs.
-- Use it to migrate a codebase from one provider to another gradually, without rewriting client integrations up front.
-- Use it to stream long completions token-by-token through a single proxy that any client can consume.
+| Without Token Share | With Token Share |
+| --- | --- |
+| Each client locked to one provider's protocol | One endpoint speaks both OpenAI and Anthropic |
+| API keys pasted into every app's config | Keys live in one place, never leave the machine |
+| Swap models → re-wire the client | Swap models → change one line |
+| Protocol mismatch = dead integration | Real-time translation bridges the gap |
+| Streaming breaks across adapters | Streaming preserved end-to-end |
 
-## Who it's for
+## Capabilities
 
-- Developers juggling multiple LLM models and clients who want one endpoint to manage them all.
-- Engineers building tools locked to one API format who need to reach models on the other.
-- Privacy-conscious builders who refuse to let their API keys leave their own machine.
-- Teams comparing providers and models who want to switch without rewriting integrations.
-- Self-hosting enthusiasts who want full local control over their LLM routing layer.
+- **Protocol translation, live.** OpenAI ⇄ Anthropic request and response shapes converted on the fly — no batching, no buffering theater.
+- **One endpoint, every client.** Point editors, CLIs, scripts, and agents at the same local URL.
+- **Provider-agnostic routing.** Any client reaches any supported provider or model behind the gateway.
+- **End-to-end streaming.** Token-by-token output flows through the translation layer intact.
+- **Local-first by design.** The gateway runs on your machine; credentials and traffic stay there.
+- **Zero lock-in.** Change models or providers without touching your client setup.
 
-## Why choose it
+## Specs at a glance
 
-What sets Token Share apart is the combination of real-time OpenAI-Anthropic protocol translation and a strictly local footprint: you get cross-protocol freedom without surrendering your keys to a hosted middleman. Compared with cloud-based LLM proxies and routers, Token Share keeps everything self-hosted, so no request data and no credentials ever leave your machine. It is best for developers who need any client to talk to any model and want streaming, simplicity, and privacy in one gateway.
+| | |
+| --- | --- |
+| **Protocols** | OpenAI ⇄ Anthropic, translated in real time |
+| **Clients** | Any OpenAI- or Anthropic-compatible tool |
+| **Streaming** | Supported end-to-end |
+| **Hosting** | Fully local — runs on your machine |
+| **API keys** | Never leave the local machine |
+| **Audience** | Developers juggling multiple models and clients |
 
-## FAQ
+## Questions developers actually ask
 
-<details><summary>What is Token Share?</summary><br>Token Share is a local, self-hosted LLM API gateway. You point any client at one local endpoint and it translates between the OpenAI and Anthropic protocols in real time, letting any client reach any provider or model.</details>
-<details><summary>Do my API keys leave my machine?</summary><br>No. Token Share runs fully locally, so your API keys never leave your own machine and are never sent to any third-party server.</details>
-<details><summary>Does it support streaming responses?</summary><br>Yes. Streaming is supported end-to-end, so token-by-token completions flow from the provider all the way through to your client.</details>
-<details><summary>Can an OpenAI-only client use an Anthropic model?</summary><br>Yes. That is the core purpose. Token Share translates between OpenAI and Anthropic formats on the fly, so a client built for one protocol can call a model that speaks the other.</details>
-<details><summary>How do I switch providers or models?</summary><br>You change the configuration at the gateway rather than in each client. Because every client already points at the same local endpoint, switching providers or models takes seconds and requires no code changes.</details>
-<details><summary>Who is Token Share for?</summary><br>It is built for developers juggling multiple models and clients who want a single local LLM gateway to unify protocols, preserve privacy, and make switching providers effortless.</details>
-<details><summary>Is Token Share self-hosted?</summary><br>Yes. Token Share is a self-hosted LLM gateway that runs entirely on your own machine, giving you full local control with no data or credentials leaving your environment.</details>
+<details><summary>Do my API keys ever leave my machine?</summary><br>No. The gateway is fully local. Keys are stored and used on your machine, and traffic routes through your own process — nothing is shipped to a third-party relay.</details>
 
-<br>
+<details><summary>Can an OpenAI-only client use an Anthropic model?</summary><br>Yes — that's the point. Token Share translates between the two protocols in real time, so a client that only speaks OpenAI can reach an Anthropic model, and vice versa.</details>
+
+<details><summary>Does streaming still work through the gateway?</summary><br>Yes. Streaming is preserved end-to-end. Tokens flow through the translation layer as they arrive, not after the full response lands.</details>
+
+<details><summary>What do I change in my client?</summary><br>The base URL. Point it at the local Token Share endpoint instead of the provider's. Most OpenAI- or Anthropic-compatible tools need nothing more.</details>
+
+<details><summary>Can I switch models without reconfiguring everything?</summary><br>Yes. Because clients only ever talk to the one local endpoint, swapping the underlying provider or model doesn't ripple back into your tools.</details>
+
+<sub>Token Share is a local LLM API gateway and protocol bridge for developers. It does not store your traffic or transmit your API keys off-device.</sub>
 
 <img alt="Token Share — overview" src="../assets/products/token-share/promo.png" width="100%">
 
-<sub>**Keywords** · local LLM gateway, OpenAI Anthropic protocol translation, LLM API proxy, any client any model, self-hosted LLM gateway, switch LLM providers, local LLM API endpoint, LLM protocol bridge, streaming LLM proxy, API key privacy</sub>
+<sub>**Keywords** · local LLM API gateway, OpenAI Anthropic protocol translation, LLM proxy localhost, API key privacy local, multi-model client routing, streaming LLM gateway, developer LLM tooling, switch models without reconfiguring</sub>
 
 ---
 

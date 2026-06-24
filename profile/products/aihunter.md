@@ -12,60 +12,63 @@
 
 ---
 
-## What it is
+## The Curation Desk
 
-AI Tools Library is a hand-curated web directory of AI tools, updated daily and organized by use case — writing, image, video, code, audio, and productivity. Every entry tells you in plain terms what the tool does, who it is for, and links straight to the source, so you go from "I need a tool for this" to "found it" in seconds. It is free to browse, deliberately curated for quality over exhaustive coverage, and anchored by a weekly board of fresh and trending AI tools. Think of it as your living map of the AI landscape, refreshed every single day.
+**AI Tools Library is a hand-picked, daily-updated web directory of AI tools, organized by what you are trying to get done — writing, image, video, code, audio, and productivity.** That is the whole pitch, and the whole position: in a market that ships a hundred new AI tools before lunch, the scarce resource is not *more* — it is _judgment_. Anyone can scrape a feed and call it a directory. We do the opposite. We sit at the desk, we try the things, and we publish a tight, opinionated shortlist so you can stop doom-scrolling launch pages and start building.
 
-## Why it exists
+The exhaustive list is a graveyard. The curated list is a map. We picked the map.
 
-The AI tool landscape moves faster than anyone can track, and scattered, hype-driven lists make it hard to find a tool that actually fits your job. AI Tools Library exists to cut through the noise: a single, daily-updated, human-curated directory that sorts tools by what you are trying to accomplish, so you spend minutes choosing instead of hours scrolling. It turns "keeping up with AI" from a chore into a quick, reliable habit.
+## How the List Gets Made
 
-## Features
+A directory is only as good as the taste behind it. Here is the bar an entry has to clear before it earns a spot.
 
-- **Daily Updates** — The directory is refreshed every single day, so the tools you discover are current — not a stale snapshot from last year.
-- **Sorted by Use Case** — Tools are categorized by what you actually want to do — writing, image, video, code, audio, productivity — so the right one is always a click away.
-- **Weekly Trending Board** — A dedicated weekly board surfaces the newest and fastest-rising AI tools, so you catch breakout products before everyone else does.
-- **Hand-Picked Quality** — Every entry is curated by humans for quality over quantity, sparing you the endless scroll through abandoned and low-effort tools.
-- **Clear Entry Cards** — Each tool comes with a plain-language summary of what it does, who it is for, and a direct link — no fluff, no detours.
-- **Free to Browse** — The entire library is free to explore, with no signup wall standing between you and your next AI tool.
-- **Built for Builders** — Whether you are scouting for a job-specific tool or just keeping pace with AI, the structure is built to get you answers fast.
+- **Daily passes, not a one-time dump.** The library is reviewed and refreshed every day. New launches get vetted, dead links get pulled, and tools that quietly went stale lose their place.
+- **Hand-picked, not auto-ingested.** Every tool is reviewed by a human before it goes live. No firehose, no SEO-spam clones padding the count.
+- **Quality over coverage.** We would rather list the three image tools actually worth your afternoon than forty that look the same. Comprehensiveness is easy and useless; a strong shortlist is hard and valuable.
+- **Written for a decision, not for a brochure.** Each entry tells you _what it does_, _who it is for_, and gives you a _direct link_ — no signup wall, no maze, no "request a demo" before you can see the thing.
 
-## Use cases
+If a tool cannot survive that, it does not make the cut. That is the entire point.
 
-- Use it to find the best AI tool for a specific job — like turning a script into video or cleaning up audio — without trawling a dozen blog posts.
-- Use it to keep up with AI by checking the weekly trending board and seeing what new tools just launched.
-- Use it to browse AI tools by category when you know the task (writing, image, code) but not the product.
-- Use it to vet a tool fast: read what it does and who it is for, then jump straight to its site via the direct link.
-- Use it as a builder hunting for a tool to slot into a workflow, comparing curated options side by side.
-- Use it as a daily or weekly habit to stay ahead of the AI curve without information overload.
+## Browse By What You Are Actually Doing
 
-## Who it's for
+You did not wake up wanting "an AI tool." You woke up needing to ship a draft, cut a video, or unstick a function. So the library is sorted by the job, not by hype. Pick your lane.
 
-- People keeping up with AI who want a reliable, curated pulse on what is new and trending.
-- Builders, founders, and makers hunting for the right tool to get a specific job done.
-- Writers, designers, video creators, developers, and audio producers looking for category-specific AI tools.
-- Productivity seekers who want to automate or speed up work with the latest AI tools.
-- Anyone overwhelmed by scattered AI tool lists who wants one trustworthy, daily-updated directory.
+| You're working on | The shelf to open |
+| --- | --- |
+| **Writing** | Drafting, editing, copy, long-form, and ghostwriting assistants |
+| **Image** | Generators, editors, upscalers, and design helpers |
+| **Video** | Generation, editing, captions, and avatar tools |
+| **Code** | Copilots, reviewers, agents, and shipping tools for builders |
+| **Audio** | Voice, music, transcription, and cleanup |
+| **Productivity** | Search, automation, notes, and the workflow glue |
 
-## Why choose it
+Know the job, open the shelf, grab the tool, get back to work.
 
-Unlike sprawling AI directories that chase exhaustive coverage and bury you in dead links, AI Tools Library is hand-picked for quality and refreshed daily, so what you see is both current and worth your time. It is best for people who want curation over a firehose — clean categories by use case, a weekly board of what is rising, and a plain-language read on every tool before you click through. Where a giant list leaves you to do the filtering, this directory does the filtering for you, then hands you the direct link.
+## This Week On The Board
 
-## FAQ
+Every week we put up a **board of what is new and what is trending** — the launches worth a second look and the tools quietly catching fire across the AI crowd. Think of it as the front page of the desk: a fast, scannable read on where the momentum is this week, so you stay current without subscribing to twelve newsletters and following a hundred threads. It is how the people who keep up with AI actually keep up — and it is free to read.
 
-<details><summary>What is AI Tools Library?</summary><br>AI Tools Library is a hand-curated web directory of AI tools, updated daily and organized by use case — writing, image, video, code, audio, and productivity. Each entry explains what the tool does, who it is for, and links directly to it.</details>
-<details><summary>Is it free to use?</summary><br>Yes. The entire directory is free to browse, with no signup required to explore the tools.</details>
-<details><summary>How often is the directory updated?</summary><br>It is updated daily, with a dedicated weekly board highlighting the newest and trending AI tools.</details>
-<details><summary>How are the AI tools chosen?</summary><br>Tools are hand-picked and curated by humans, prioritizing quality over exhaustive coverage, so the directory favors genuinely useful tools over an endless catalog.</details>
-<details><summary>How do I find an AI tool for a specific task?</summary><br>Browse by category — writing, image, video, code, audio, or productivity — and each tool's card tells you what it does and who it is for, with a direct link to try it.</details>
-<details><summary>Who is AI Tools Library best for?</summary><br>It is best for people keeping up with AI and for builders hunting a tool for a specific job, who want a curated, current directory instead of scattered hype lists.</details>
-<details><summary>What makes it different from other AI tool directories?</summary><br>It is curated for quality rather than sheer volume, refreshed daily, and structured by use case with a weekly trending board — so you find the right tool faster and avoid stale or dead listings.</details>
+The board moves because the field moves. Check in weekly, leave knowing what changed.
 
-<br>
+## A Few Honest Questions
+
+<details><summary>Is it free to browse?</summary><br>Yes. Browsing the library, the categories, and the weekly board costs nothing. No account required to look around.</details>
+
+<details><summary>Why not just list every AI tool out there?</summary><br>Because an exhaustive list is noise. The value of a curated directory is everything we leave _out_. We aim for the shortlist you would trust a sharp friend to give you, not a wall of every product with a landing page.</details>
+
+<details><summary>How often is it updated?</summary><br>Daily. The library is reviewed and refreshed every day, and the trending board turns over weekly.</details>
+
+<details><summary>Who is this for?</summary><br>Two crowds: people who want to keep up with AI without drowning in it, and builders hunting for the right tool for a specific job — fast.</details>
+
+<details><summary>How is a tool chosen?</summary><br>A human reviews it against a quality bar before it is listed. We weigh whether it actually works, who it genuinely helps, and whether it earns a spot over what is already on the shelf.</details>
+
+<details><summary>What does each listing tell me?</summary><br>What the tool does, who it is for, and a direct link to try it. Enough to decide in seconds, nothing you have to dig for.</details>
+
+<sub>Hand-picked and updated daily. We curate so you do not have to scroll. Free to browse.</sub>
 
 <img alt="AI Tools Library — overview" src="../assets/products/aihunter/promo.png" width="100%">
 
-<sub>**Keywords** · AI tools directory, best AI tools, daily AI tools, AI tools by category, find AI tools, curated AI tools, trending AI tools, AI tools for writing image video code, new AI tools weekly, AI tools library</sub>
+<sub>**Keywords** · AI tools directory, curated AI tools, daily updated AI tools, best AI tools by category, AI tools for writing image video code audio productivity, trending AI tools weekly, hand-picked AI tool library, find AI tools, new AI tool launches, AI tool discovery</sub>
 
 ---
 

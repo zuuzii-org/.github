@@ -12,53 +12,51 @@
 
 ---
 
-## What it is
+## Drop in a photo. Walk away with magic.
 
-AI Warmup is an online AI image studio that runs entirely in your browser, where you upload a photo and AI restyles, edits, restores, repaints, colorizes, expands, and super-resolves it in seconds. It is a point-metered, pay-for-what-you-use tool with nothing to install and no setup. Built by the zuuzii product studio, AI Warmup turns a single uploaded image into portrait restyles, artistic style transfers, restored heirlooms, upscaled detail, and clean object removals — all from one fast, browser-native workspace.
+**AI Warmup is an online, browser-based AI image studio that takes any photo you upload and restyles, restores, repaints, colorizes, expands, or super-resolves it in seconds — no software to install, and you pay only for what you use.** It is the whole editing suite, minus the editing: you bring the picture, the AI does the heavy lifting.
 
-## Why it exists
+## What it can do to your photos
 
-Most people don't need a heavyweight desktop editor or a steep learning curve — they need one beautiful result, fast. AI Warmup exists to collapse the gap between a raw photo and a finished image: no downloads, no licenses, no subscriptions you forget to cancel. You open a browser, upload, choose what you want done, and pay only for the points you actually use.
+Feed it an image and pick a transform. Each one is a one-click superpower:
 
-## Features
+- **Restyle a portrait** — turn a plain selfie into a polished, magazine-ready version of you.
+- **Repaint it as art** — fire a photo through oil painting, anime, watercolor, or glossy 3D and watch it become a different medium entirely.
+- **Resurrect old photos** — heal scratches, creases, and fading until a damaged memory looks like it was shot yesterday.
+- **Colorize black-and-white** — pour believable, natural color into vintage and monochrome shots.
+- **Super-resolve and upscale** — crank a small, soft, low-res image into crisp, print-ready detail.
+- **Erase the unwanted** — wipe out objects, photobombers, and watermarks like they were never there.
+- **Expand the frame** — push the edges outward and let AI paint convincing new scenery beyond the original border.
 
-- **Portrait Restyle** — Reimagine any selfie or portrait into a new look — oil painting, anime, watercolor, or crisp 3D — while keeping the face recognizably yours.
-- **Artistic Style Transfer** — Pour the soul of a painting into your photo with one click, transforming snapshots into gallery-grade art across dozens of styles.
-- **Old-Photo Restoration** — Rescue scratched, faded, and torn memories, rebuilding lost detail so decades-old prints look freshly developed.
-- **Colorize Black-and-White** — Breathe lifelike color into vintage monochrome photos, turning grayscale history into warm, believable scenes.
-- **Super-Resolution Upscale** — Multiply pixels into sharpness, upscaling soft or low-res images into clean, print-ready detail.
-- **Object & Watermark Removal** — Erase distractions, watermarks, and unwanted objects seamlessly, leaving a flawless background behind.
-- **AI Image Expand** — Stretch your canvas beyond its edges, letting AI paint convincing new scenery to reframe any composition.
+_One studio, every makeover — from gentle touch-up to total reinvention._
 
-## Use cases
+## How it works — three taps, done
 
-- Use it to restyle a portrait into oil painting, anime, watercolor, or 3D for an avatar or profile picture
-- Use it to restore and colorize an old family photo before printing or sharing it with relatives
-- Use it to upscale a small, soft, or low-resolution image into print-ready, high-detail quality
-- Use it to remove a watermark, photobomber, or distracting object from an otherwise perfect shot
-- Use it to expand a tightly cropped image so it fits a wider banner, wallpaper, or social format
-- Use it to generate quick, on-brand visuals in the browser without installing any editing software
+1. **Upload** your photo straight in the browser. No download, no account-hoops, no plugins.
+2. **Choose** the transform you want — restyle, art filter, restore, colorize, upscale, remove, or expand.
+3. **Generate** and watch the result land in seconds. Like it? Keep it. Tweak it? Run it again.
 
-## Who it's for
+That's the whole workflow. The hard part is deciding which version of your photo you like best.
 
-- Anyone who wants a striking restyled portrait or avatar without learning Photoshop
-- Families restoring and colorizing old, faded, or damaged heirloom photos
-- Creators and marketers who need fast, on-brand images straight from the browser
-- Sellers and social posters who need clean upscales and watermark or object removal
+## Pricing, simply
 
-## Why choose it
+Point-metered and pay-as-you-go: you spend points only on the images you actually generate — **no subscription lock-in, no idle monthly fee, and nothing to install**. Try one transform or run a hundred; you're billed for output, not for showing up.
 
-AI Warmup is best for people who want a finished, beautiful image fast — not a sprawling editor to master. Unlike installed desktop software, it runs entirely in the browser with nothing to download and no setup. Unlike subscription editors that bill you whether you create or not, AI Warmup is point-metered: you pay only for what you actually use. And unlike single-trick filter apps, it bundles restyle, restoration, colorization, upscaling, object removal, and image expand into one fast, instant-generation workspace.
+## Quick answers before you upload
 
-## FAQ
+<details><summary>Do I need to install anything or sign up for special software?</summary><br>No. AI Warmup runs entirely in your browser. Open the page, upload a photo, and start generating — there's nothing to download and no app to maintain.</details>
 
-<details><summary>What is AI Warmup?</summary><br>AI Warmup is an online, browser-based AI image studio where you upload a photo and AI restyles, edits, restores, repaints, colorizes, expands, or super-resolves it instantly. There is nothing to install and you pay only for the points you use.</details>
-<details><summary>Do I need to install anything?</summary><br>No. AI Warmup runs entirely in your browser — no downloads, no plugins, and no setup. You just open the page, upload an image, and start generating.</details>
-<details><summary>How does pricing work?</summary><br>AI Warmup is point-metered, meaning you pay for what you use. There is no forced subscription; points are consumed only when you actually generate or edit an image.</details>
-<details><summary>Can it restore and colorize old photos?</summary><br>Yes. AI Warmup repairs scratched, faded, and damaged old photos and can colorize black-and-white images, turning vintage prints into clean, lifelike, full-color pictures.</details>
-<details><summary>Can AI Warmup upscale low-resolution images?</summary><br>Yes. Its super-resolution feature upscales soft or low-resolution images into sharper, higher-detail, print-ready results directly in the browser.</details>
-<details><summary>What styles can I apply to a portrait?</summary><br>You can restyle portraits into looks such as oil painting, anime, watercolor, and 3D, plus many other artistic style transfers, while keeping the subject recognizable.</details>
-<details><summary>Can it remove watermarks or unwanted objects?</summary><br>Yes. AI Warmup can remove watermarks, photobombers, and distracting objects, and it can also expand an image beyond its original edges with AI-generated scenery.</details>
+<details><summary>How fast is "instant"?</summary><br>Most transforms return in seconds. You upload, choose an effect, hit generate, and the result appears almost immediately — fast enough to iterate freely until it's perfect.</details>
+
+<details><summary>Can it really fix an old, damaged, or faded photo?</summary><br>Yes. The old-photo restoration tool repairs scratches, tears, and fading, and the colorization tool adds natural color to black-and-white images — ideal for reviving family archives and vintage prints.</details>
+
+<details><summary>What kinds of edits are covered?</summary><br>Portrait restyle, artistic style transfer (oil, anime, watercolor, 3D), old-photo restoration, B&W colorization, super-resolution upscaling, object and watermark removal, and image expansion — all in one place.</details>
+
+<details><summary>How does the points pricing work?</summary><br>It's metered and pay-as-you-go. Points are consumed per generation, so you only pay for the images you create. No subscription, no commitment.</details>
+
+<details><summary>Will it sharpen a low-resolution image for printing?</summary><br>Yes. The super-resolution tool upscales small or soft images into higher-resolution, detail-rich versions suitable for larger displays and print.</details>
+
+<sub>AI-generated results vary with the source image; for best output, upload the clearest, highest-quality original you have.</sub>
 
 ## Examples
 
@@ -73,7 +71,7 @@ AI Warmup is best for people who want a finished, beautiful image fast — not a
 </tr>
 </table>
 
-<sub>**Keywords** · AI image generator online, AI photo restoration, colorize old photos, AI portrait restyle, AI photo editor browser, image upscaler online, AI style transfer, watermark remover, super-resolution image, AI image expand</sub>
+<sub>**Keywords** · AI image studio online, AI photo restyle, AI old photo restoration, black and white photo colorization, AI image upscaler super resolution, remove object and watermark from photo, AI photo style transfer oil painting anime, expand image AI outpainting, browser AI photo editor no install, pay as you go AI image generation</sub>
 
 ---
 

@@ -12,54 +12,67 @@
 
 ---
 
-## What it is
+## In one sentence
 
-AgentStudio is a no-code AI app builder for macOS — a local desktop workbench where you describe what you want in plain language and two AI agents collaborate to build it. One agent plans, the other builds and self-checks, iterating together until the result actually runs. It turns ideas into working tools without writing a single line of code, designed for non-coders, makers, and anyone who wants the fastest possible idea-to-tool path on their Mac.
+**AgentStudio is a no-code macOS workbench where you describe what you want in plain language, and two AI agents — a planner and a builder — collaborate and iterate until a working result actually runs on your Mac.**
 
-## Why it exists
+No syntax. No setup rabbit holes. No "almost works." You talk, they build, it ships.
 
-Most people have ideas for small apps and tools but hit a wall the moment they need to code. Traditional no-code tools force you into rigid templates, and AI code assistants still assume you can read and fix the code they produce. AgentStudio removes the wall entirely: you describe the outcome in plain words, and a dual-agent system designs, builds, and verifies it for you — so the gap between "I wish this existed" and "it's running on my Mac" collapses to a single conversation.
+---
 
-## Features
+## How the two-agent loop works
 
-- **Dual-Agent Engine** — Two AI agents work as a team — one architects the plan while the other builds and self-checks every step, catching mistakes a single model would miss.
-- **Describe-to-Build** — Just say what you want in plain language and watch it take shape — no syntax, no frameworks, no tutorials standing between your idea and a working tool.
-- **Runs Until It Runs** — AgentStudio doesn't stop at a first draft; the agents iterate relentlessly until the result actually launches and behaves the way you described.
-- **Fully Local on macOS** — It lives natively on your Mac as a desktop app, keeping your workflow fast, private, and entirely under your control.
-- **Zero-Code by Design** — You never touch a line of code — the agents handle planning, building, and debugging so you stay focused purely on the idea.
-- **Fastest Idea-to-Tool Path** — From a sentence to a functioning app in one continuous flow, AgentStudio is built to be the shortest route between imagination and a real, usable tool.
+Most AI tools hand you a single model that guesses once and hopes. AgentStudio runs a **two-agent loop** instead — a planner and a builder that pass work back and forth, the same way a senior engineer hands a blueprint to a maker and reviews what comes back. Here is the whole cycle, step by step.
 
-## Use cases
+### 1 · You describe it
 
-- Use it to turn a quick idea for a personal utility — a habit tracker, a file renamer, a custom calculator — into a working macOS tool in one sitting.
-- Use it to prototype an app concept fast, so you can test whether an idea feels right before investing real time or hiring a developer.
-- Use it to automate a repetitive desktop task by simply describing the workflow you want and letting the agents build the automation.
-- Use it to build small internal tools for yourself or your team without waiting on an engineering queue.
-- Use it to learn what's possible with AI builders by experimenting hands-on, watching the agents plan and iterate in real time.
+You type what you have in mind, in everyday words. _"A tool that renames my photos by date." "An app that tracks my workouts." "Something that turns this folder of CSVs into one clean spreadsheet."_ No flowcharts, no requirements doc, no jargon. If you can explain it to a friend, you can describe it to AgentStudio.
 
-## Who it's for
+### 2 · The planner maps it
 
-- Non-coders with ideas who want to build real tools without ever learning to program.
-- Tinkerers and makers chasing the fastest possible idea-to-tool path on their Mac.
-- Founders and creators who want to prototype an app concept before committing to development.
-- Busy professionals who want to automate small desktop workflows without hiring help.
-- Curious Mac users who want to explore what AI agents can build, hands-on.
+The first agent — the **planner** — reads your request and breaks it into a real plan: what the thing needs to do, which pieces it requires, and the order to build them in. It turns a fuzzy wish into a concrete blueprint, so nothing gets built on a guess. This is the step that separates "AI that autocompletes" from "AI that actually understands the goal."
 
-## Why choose it
+### 3 · The builder makes it — and checks itself
 
-What sets AgentStudio apart is its dual-agent architecture: instead of a single AI that guesses and hands you fragile code, one agent plans while a second builds and self-checks, iterating until the app genuinely runs. It's best for non-coders and tinkerers who want a finished, working tool — not a code snippet to debug. Unlike template-bound no-code platforms, you're not confined to preset blocks; unlike AI coding assistants, you never have to read or repair the output. Because it's a native local macOS app, everything happens fast and stays on your machine.
+The second agent — the **builder** — takes that blueprint and constructs the real thing. Then it does what most AI never bothers to: it **runs its own work and inspects the result.** Did it execute? Did it do what the plan asked? The builder grades its own output before you ever see it, catching the broken pieces a one-shot generator would have shipped straight to you.
 
-## FAQ
+### 4 · It loops until it runs
 
-<details><summary>What is AgentStudio?</summary><br>AgentStudio is a no-code AI app builder for macOS. You describe what you want in plain language, and two AI agents collaborate to plan, build, and self-check it until the result actually runs — no coding required.</details>
-<details><summary>Do I need to know how to code to use AgentStudio?</summary><br>No. AgentStudio is built specifically for non-coders. You describe your idea in everyday language and the AI agents handle all the planning, building, and debugging for you.</details>
-<details><summary>How does the dual-agent system work?</summary><br>Two AI agents collaborate as a team: one plans the approach and architecture, while the other builds it and self-checks the work. They iterate together, fixing problems until the finished tool launches and behaves as described.</details>
-<details><summary>Is AgentStudio a local app or a cloud service?</summary><br>AgentStudio is a native local macOS application that runs on your Mac, keeping your workflow fast and your work under your own control.</details>
-<details><summary>What can I build with AgentStudio?</summary><br>You can build small apps, personal utilities, prototypes, and desktop automations — anything you can describe in plain language, the agents will attempt to build and iterate on until it works.</details>
-<details><summary>How is AgentStudio different from other no-code or AI coding tools?</summary><br>Traditional no-code tools lock you into rigid templates, and AI coding assistants still expect you to read and fix their code. AgentStudio's dual-agent system instead delivers a finished tool that actually runs, with no code for you to touch.</details>
-<details><summary>Who is AgentStudio best for?</summary><br>It's best for non-coders with ideas and for tinkerers who want the fastest possible path from a description to a working macOS tool.</details>
+When the builder finds a flaw, it doesn't shrug — it **loops back.** Plan, build, self-check, fix, repeat. The two agents keep cycling until the result genuinely runs on your macOS machine. You're not handed a hopeful draft; you're handed something that works. That closed feedback loop is the whole point: **AgentStudio iterates so you don't have to debug.**
 
-<sub>**Keywords** · no-code AI agent macOS, build apps without code, AI app builder, dual-agent builder, describe to build, AI automation desktop, no-code Mac app, idea to tool, AI workbench macOS, build apps with plain language</sub>
+---
+
+## What people build with it
+
+AgentStudio is built for **people with ideas, not credentials** — the non-coder who's tired of waiting on someone else, and the tinkerer who wants to move at the speed of their own curiosity. A few of the things that come to life here:
+
+- **Personal automations** — rename, sort, and reorganize files; batch-convert images; clean up messy folders without touching the command line.
+- **Tiny everyday apps** — a habit tracker, a reading list, a budget tool, a countdown for the thing you actually care about.
+- **Data wranglers** — merge spreadsheets, scrape a list into a tidy table, turn raw exports into something readable.
+- **Workflow helpers** — small utilities that take one annoying manual chore off your plate, every single day.
+- **"I wonder if I could…" experiments** — the half-formed idea you'd never hire a developer for, now a weekend afternoon away from being real.
+
+If it's the kind of small, useful software you wish existed but never had the time or skills to make — **this is the workbench for it.**
+
+---
+
+## Before you build
+
+<details><summary>Do I need to know how to code?</summary><br>No. That's the entire point. You describe the result in plain language and the two agents handle the planning and building. AgentStudio is a no-code tool designed specifically for non-coders and tinkerers.</details>
+
+<details><summary>What makes this different from a regular AI chatbot?</summary><br>A chatbot generates one answer and stops. AgentStudio runs a two-agent loop — a planner and a builder — where the builder runs and checks its own work, then loops back to fix what's broken. It keeps iterating until the result actually runs, instead of handing you a draft that "should" work.</details>
+
+<details><summary>Where does it run?</summary><br>It's a native macOS app that runs locally on your Mac. You work in a real desktop workbench, not a browser tab.</details>
+
+<details><summary>What can I actually make with it?</summary><br>Small, useful software: personal automations, tiny apps like trackers and budget tools, data cleanup utilities, and workflow helpers. If you can describe it in a sentence, it's a candidate.</details>
+
+<details><summary>What if the first result isn't right?</summary><br>That's expected — and it's exactly what the loop is for. The builder self-checks and the agents keep iterating until something works. You can also describe what you'd like changed, and the loop runs again.</details>
+
+<details><summary>Is it really self-checking, or do I have to test everything?</summary><br>The builder runs its own output and inspects whether it executes and matches the plan before you see it. You stay in control of what you want, but you're not the one hunting for bugs.</details>
+
+<sub>AgentStudio is a local macOS application. Results depend on what you describe; the two-agent planner-builder loop iterates toward a working outcome but the clearer your description, the faster it gets there.</sub>
+
+<sub>**Keywords** · no-code macOS app, two AI agents, AI app builder for non-coders, plain language app builder, planner and builder agents, self-checking AI, local macOS workbench, build apps without coding, AI automation tool, iterate until it runs</sub>
 
 ---
 
