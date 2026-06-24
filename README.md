@@ -11,19 +11,32 @@ This repository powers the **organization profile** shown at
 - A `README.md` at the repo root (this file) is just the repo's own readme — it does
   **not** appear on the org page.
 
-## Editing the profile
+## Layout
 
-Edit [`profile/README.md`](profile/README.md). It uses only GitHub-allowed HTML
-(`<div align>`, `<picture>`, `<table>`, `<img>`, `<sub>`, …) — no CSS/JS, which GitHub strips.
+```
+profile/
+├── README.md              ← org landing (English, default)
+├── README.zh.md           ← org landing (中文)
+├── products/
+│   ├── <slug>.md          ← product detail page (English)
+│   └── <slug>.zh.md       ← product detail page (中文)
+└── assets/
+    ├── banner-{light,dark}.svg        ← English banner
+    ├── banner-zh-{light,dark}.svg     ← 中文 banner
+    └── products/<slug>/…              ← per-product images
+```
 
-## Optional images
+slugs: `aihunter` · `museview` · `agentstudio` · `token-share` · `ai-warmup` · `chatbot`
 
-Images are optional; the profile looks complete without them. To add cover art,
-team avatars, or a banner:
+## Languages
 
-1. Drop the files into [`profile/assets/`](profile/assets/).
-2. Uncomment the matching `<!-- cover → … -->` / `<!-- avatar → … -->` / `<!-- OPTIONAL banner … -->`
-   block in `profile/README.md`.
+English is the default landing page; each page has an `English · 中文` toggle at the top.
+Links rendered on the **org page** (the main README) must be **absolute** blob URLs —
+relative links resolve against the org root there and 404. Links inside the product pages
+(viewed as normal files) may be relative.
 
-Suggested sizes: banner ~1200×300, product covers ~600×360, avatars ~160×160 (square).
-Relative paths like `./assets/foo.png` resolve to `profile/assets/foo.png`.
+## Editing
+
+Edit the matching language file. HTML stays inside GitHub's allowlist
+(`<div align>`, `<picture>`, `<table>`, `<img>`, `<sub>`, `<details>`) — no CSS/JS, which GitHub strips.
+Banners are SVG (style is baked into the image). Product images live under `profile/assets/products/<slug>/`.

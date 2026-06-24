@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 350" width="1280" height="350" role="img" aria-labelledby="t d">
-  <title id="t">zuuzii — AI Product Studio</title>
-  <desc id="d">Make AI hold shape in the real world.</desc>
+  <title id="t">zuuzii — AI 产品工作室</title>
+  <desc id="d">把 AI 放回真实世界的秩序里。</desc>
   <rect width="1280" height="350" fill="#F4EFE5"/>
   <rect x="24" y="24" width="1232" height="302" fill="none" stroke="#1D1A14" stroke-opacity="0.12"/>
   <g stroke="#3C5A3A" fill="none" stroke-opacity="0.12" stroke-width="2">
@@ -8,9 +8,9 @@
     <circle cx="1150" cy="175" r="135"/>
     <circle cx="1150" cy="175" r="55"/>
   </g>
-  <text x="92" y="118" font-family="'SF Mono', ui-monospace, Menlo, monospace" font-size="18" letter-spacing="7" fill="#3C5A3A">AI&#160;&#160;PRODUCT&#160;&#160;STUDIO</text>
+  <text x="92" y="118" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="18" letter-spacing="6" fill="#3C5A3A">AI 产品工作室</text>
   <text x="86" y="215" font-family="Georgia, 'Times New Roman', serif" font-size="96" font-weight="600" fill="#1D1A14">zuuzii</text>
   <rect x="92" y="240" width="124" height="4" fill="#3C5A3A"/>
-  <text x="92" y="285" font-family="Georgia, serif" font-size="25" fill="#3A352C">Make AI hold shape in the real world.</text>
-  <text x="92" y="316" font-family="'SF Mono', ui-monospace, Menlo, monospace" font-size="15" letter-spacing="3" fill="#6B6557">IMAGINATION&#160;&#160;·&#160;&#160;CREATION&#160;&#160;·&#160;&#160;SERVICE</text>
+  <text x="92" y="287" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="25" fill="#3A352C">把 AI 放回真实世界的秩序里。</text>
+  <text x="92" y="318" font-family="'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="16" letter-spacing="2" fill="#6B6557">想象 · 创造 · 服务</text>
 </svg>
