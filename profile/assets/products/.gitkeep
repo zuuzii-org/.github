@@ -1,0 +1,4 @@
+# Optional product screenshots (committed into the .github repo).
+# Referenced from ../../products/<name>.md as ../assets/products/<name>.png
+# Suggested: ~1200×750, one per product:
+#   aihunter.png  museview.png  agentstudio.png  token-share.png  ai-warmup.png  chatbot.png

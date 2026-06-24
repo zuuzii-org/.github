@@ -58,7 +58,7 @@
 
 <sub>**Good for** · 不刷信息流，也能发现真正好用的 AI 工具</sub>
 
-[Open AI Tools Library →](https://aihunter.zuuzii.com)
+[了解更多 · Learn more →](https://github.com/zuuzii-org/.github/blob/main/profile/products/aihunter.md)
 
 </td>
 <td width="50%" valign="top">
@@ -76,7 +76,7 @@
 
 <sub>**Good for** · 重度阅读者、笔记党、研究者</sub>
 
-[Open MuseView →](https://zuuzii.com/productions/museview/)
+[了解更多 · Learn more →](https://github.com/zuuzii-org/.github/blob/main/profile/products/museview.md)
 
 </td>
 </tr>
@@ -96,7 +96,7 @@
 
 <sub>**Good for** · 把脑子里的点子变成能用的小工具</sub>
 
-[Open AgentStudio →](https://zuuzii.com/productions/agentstudio/)
+[了解更多 · Learn more →](https://github.com/zuuzii-org/.github/blob/main/profile/products/agentstudio.md)
 
 </td>
 <td width="50%" valign="top">
@@ -114,7 +114,7 @@
 
 <sub>**Good for** · 在多模型、多客户端之间自由切换的开发者</sub>
 
-[Open Token Share →](https://zuuzii.com/productions/token-share/)
+[了解更多 · Learn more →](https://github.com/zuuzii-org/.github/blob/main/profile/products/token-share.md)
 
 </td>
 </tr>
@@ -134,7 +134,7 @@
 
 <sub>**Good for** · 快速出图、人像重绘、老照片修复</sub>
 
-[Open AI Warmup →](https://zuuzii.com/productions/ai-warmup/)
+[了解更多 · Learn more →](https://github.com/zuuzii-org/.github/blob/main/profile/products/ai-warmup.md)
 
 </td>
 <td width="50%" valign="top">
@@ -152,7 +152,7 @@
 
 <sub>**Good for** · 微信里随时找个人陪你聊两句</sub>
 
-[Open AI Companions →](https://zuuzii.com/productions/chatbot/)
+[了解更多 · Learn more →](https://github.com/zuuzii-org/.github/blob/main/profile/products/chatbot.md)
 
 </td>
 </tr>
