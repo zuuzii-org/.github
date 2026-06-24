@@ -26,7 +26,7 @@ profile/
     └── products/<slug>/…              ← per-product images
 ```
 
-slugs: `aihunter` · `museview` · `agentstudio` · `token-share` · `ai-warmup` · `chatbot`
+slugs: `aihunter` · `museview` · `agentstudio` · `token-share` · `ai-warmup` · `chatbot` · `wonderink`
 
 ## Languages
 

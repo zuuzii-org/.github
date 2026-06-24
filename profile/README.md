@@ -17,7 +17,7 @@
 
 [![Website](https://img.shields.io/badge/Website-zuuzii.com-1f2328?logo=safari&logoColor=white)](https://zuuzii.com)
 [![Email](https://img.shields.io/badge/Email-hi%40zuuzii.com-ea4335?logo=gmail&logoColor=white)](mailto:hi@zuuzii.com)
-![Products](https://img.shields.io/badge/products-6-3c5a3a)
+![Products](https://img.shields.io/badge/products-7-3c5a3a)
 ![Built in the AI era](https://img.shields.io/badge/built_in-the_AI_era-8a6d3b)
 
 </div>
@@ -140,6 +140,25 @@
 <sub>**Good for** · a bit of company, right inside WeChat</sub>
 
 [Learn more →](https://github.com/zuuzii-org/.github/blob/main/profile/products/chatbot.md)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🪄 [WonderInk](https://apps.apple.com/app/id6779648706)
+
+![status](https://img.shields.io/badge/status-APP-1f6feb) ![platform](https://img.shields.io/badge/platform-iOS-000000?logo=apple&logoColor=white)
+
+**Restyle, doodle, animate — four AI tools in your pocket.**
+
+- Restyle a portrait in 12 art styles
+- Doodle a few strokes → AI finishes the art
+- Bring a photo to life as a 5-second video
+
+<sub>**Good for** · turning photos & sketches into AI art on iPhone</sub>
+
+[Learn more →](https://github.com/zuuzii-org/.github/blob/main/profile/products/wonderink.md)
 
 </td>
 </tr>

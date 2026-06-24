@@ -15,7 +15,7 @@
 
 [![官网](https://img.shields.io/badge/官网-zuuzii.com-1f2328?logo=safari&logoColor=white)](https://zuuzii.com)
 [![邮箱](https://img.shields.io/badge/邮箱-hi%40zuuzii.com-ea4335?logo=gmail&logoColor=white)](mailto:hi@zuuzii.com)
-![产品](https://img.shields.io/badge/产品-6-3c5a3a)
+![产品](https://img.shields.io/badge/产品-7-3c5a3a)
 ![AI 时代](https://img.shields.io/badge/诞生于-AI_时代-8a6d3b)
 
 </div>
@@ -138,6 +138,25 @@
 <sub>**适合** · 在微信里随时找个人陪你聊</sub>
 
 [了解更多 →](https://github.com/zuuzii-org/.github/blob/main/profile/products/chatbot.zh.md)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🪄 [WonderInk](https://apps.apple.com/app/id6779648706)
+
+![状态](https://img.shields.io/badge/状态-应用-1f6feb) ![平台](https://img.shields.io/badge/平台-iOS-000000?logo=apple&logoColor=white)
+
+**人像重绘 · 涂鸦作画 · 照片动起来 —— 四种 AI 创作工具装进口袋。**
+
+- 一张照片，12 种画风重绘
+- 随手画几笔 → AI 补成完整作品
+- 静态照片变 5 秒动态视频
+
+<sub>**适合** · 在 iPhone 上把照片和涂鸦变成 AI 作品</sub>
+
+[了解更多 →](https://github.com/zuuzii-org/.github/blob/main/profile/products/wonderink.zh.md)
 
 </td>
 </tr>
