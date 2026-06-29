@@ -8,7 +8,7 @@
 ![platform](https://img.shields.io/badge/platform-macOS_15+-000000?logo=apple&logoColor=white)
 [![Download .dmg](https://img.shields.io/badge/Download-.dmg-3f5a87?logo=apple&logoColor=white)](https://zoytown-sg.oss-ap-southeast-1.aliyuncs.com/zprism/zprism.dmg)
 
-<img alt="Zprism — a keyboard-grid launcher and screenshot tool for macOS" src="https://zoytown-sg.oss-ap-southeast-1.aliyuncs.com/zprism/cover.png" width="100%">
+<img alt="Zprism — a keyboard-grid launcher and screenshot tool for macOS" src="https://oss.zuuzii.com/productions/zprism/zprism.png" width="100%">
 
 > ⌨️ **[Download Zprism for macOS →](https://zoytown-sg.oss-ap-southeast-1.aliyuncs.com/zprism/zprism.dmg)** — macOS 15+, `.dmg`.
 

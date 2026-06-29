@@ -8,7 +8,7 @@
 ![platform](https://img.shields.io/badge/platform-iOS-000000?logo=apple&logoColor=white)
 [![Preview on zoytown](https://img.shields.io/badge/Preview_on-zoytown-9a6b3f)](https://www.zoytown.com/items/sigilo)
 
-<img alt="Sigilo — privacy-first two-factor authenticator (2FA) app for iPhone" src="https://zoytown-sg.oss-ap-southeast-1.aliyuncs.com/sigilo/cover.png" width="100%">
+<img alt="Sigilo — privacy-first two-factor authenticator (2FA) app for iPhone" src="https://oss.zuuzii.com/productions/sigilo/sigilo.png" width="100%">
 
 > 🔐 **Coming soon on iPhone.** [Follow Sigilo on zoytown →](https://www.zoytown.com/items/sigilo)
 

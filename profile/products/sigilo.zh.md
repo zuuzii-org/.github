@@ -8,7 +8,7 @@
 ![平台](https://img.shields.io/badge/平台-iOS-000000?logo=apple&logoColor=white)
 [![在 zoytown 预览](https://img.shields.io/badge/在_zoytown-预览-9a6b3f)](https://www.zoytown.com/items/sigilo)
 
-<img alt="Sigilo —— iPhone 上隐私优先的两步验证(2FA)App" src="https://zoytown-sg.oss-ap-southeast-1.aliyuncs.com/sigilo/cover.png" width="100%">
+<img alt="Sigilo —— iPhone 上隐私优先的两步验证(2FA)App" src="https://oss.zuuzii.com/productions/sigilo/sigilo.png" width="100%">
 
 > 🔐 **即将上线 iPhone。** [在 zoytown 关注 Sigilo →](https://www.zoytown.com/items/sigilo)
 
