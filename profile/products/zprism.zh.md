@@ -8,7 +8,7 @@
 ![平台](https://img.shields.io/badge/平台-macOS_15+-000000?logo=apple&logoColor=white)
 [![下载 .dmg](https://img.shields.io/badge/下载-.dmg-3f5a87?logo=apple&logoColor=white)](https://zoytown-sg.oss-ap-southeast-1.aliyuncs.com/zprism/zprism.dmg)
 
-<img alt="Zprism —— macOS 上的键盘网格启动器与截图工具" src="https://oss.zuuzii.com/productions/zprism/zprism.png" width="100%">
+<img alt="Zprism —— macOS 上的键盘网格启动器与截图工具" src="https://oss.zuuzii.com/productions/cover/zprism.png" width="100%">
 
 > ⌨️ **[下载 Zprism(macOS)→](https://zoytown-sg.oss-ap-southeast-1.aliyuncs.com/zprism/zprism.dmg)** —— macOS 15+,`.dmg`。
 

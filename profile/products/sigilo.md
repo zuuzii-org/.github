@@ -8,7 +8,7 @@
 ![platform](https://img.shields.io/badge/platform-iOS-000000?logo=apple&logoColor=white)
 [![Preview on zoytown](https://img.shields.io/badge/Preview_on-zoytown-9a6b3f)](https://www.zoytown.com/items/sigilo)
 
-<img alt="Sigilo — privacy-first two-factor authenticator (2FA) app for iPhone" src="https://oss.zuuzii.com/productions/sigilo/sigilo.png" width="100%">
+<img alt="Sigilo — privacy-first two-factor authenticator (2FA) app for iPhone" src="https://oss.zuuzii.com/productions/cover/sigilo.png" width="100%">
 
 > 🔐 **Coming soon on iPhone.** [Follow Sigilo on zoytown →](https://www.zoytown.com/items/sigilo)
 
@@ -47,13 +47,13 @@ Need your codes on more than one device, or a safety net when you switch phones?
 ## A look inside
 
 <p align="center">
-<img alt="Sigilo app screenshot" src="https://zoytown-sg.oss-ap-southeast-1.aliyuncs.com/sigilo/sigilo_1.png" width="23%">
+<img alt="Sigilo app screenshot" src="https://oss.zuuzii.com/productions/zprism/sigilo_1.png" width="23%">
 &nbsp;
-<img alt="Sigilo app screenshot" src="https://zoytown-sg.oss-ap-southeast-1.aliyuncs.com/sigilo/sigilo_2.png" width="23%">
+<img alt="Sigilo app screenshot" src="https://oss.zuuzii.com/productions/zprism/sigilo_2.png" width="23%">
 &nbsp;
-<img alt="Sigilo app screenshot" src="https://zoytown-sg.oss-ap-southeast-1.aliyuncs.com/sigilo/sigilo_3.png" width="23%">
+<img alt="Sigilo app screenshot" src="https://oss.zuuzii.com/productions/zprism/sigilo_3.png" width="23%">
 &nbsp;
-<img alt="Sigilo app screenshot" src="https://zoytown-sg.oss-ap-southeast-1.aliyuncs.com/sigilo/sigilo_4.png" width="23%">
+<img alt="Sigilo app screenshot" src="https://oss.zuuzii.com/productions/zprism/sigilo_7.png" width="23%">
 </p>
 
 ## FAQ
