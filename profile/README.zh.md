@@ -15,7 +15,7 @@
 
 [![官网](https://img.shields.io/badge/官网-zuuzii.com-1f2328?logo=safari&logoColor=white)](https://zuuzii.com)
 [![邮箱](https://img.shields.io/badge/邮箱-hi%40zuuzii.com-ea4335?logo=gmail&logoColor=white)](mailto:hi@zuuzii.com)
-![产品](https://img.shields.io/badge/产品-7-3c5a3a)
+![产品](https://img.shields.io/badge/产品-9-3c5a3a)
 ![AI 时代](https://img.shields.io/badge/诞生于-AI_时代-8a6d3b)
 
 </div>
@@ -30,7 +30,7 @@
 
 ## 产品
 
-> 六款已上线产品:工具导航 · 两款桌面/移动应用 · 开发者网关 · 图像创作台 · 微信 AI 陪聊。
+> 九款产品:工具导航 · iOS 与 macOS 原生应用 · 开发者网关 · 图像创作台 · 微信 AI 陪聊 · 隐私优先验证器 · 键盘网格启动器。
 
 <table>
 <tr>
@@ -157,6 +157,42 @@
 <sub>**适合** · 在 iPhone 上把照片和涂鸦变成 AI 作品</sub>
 
 [了解更多 →](https://github.com/zuuzii-org/.github/blob/main/profile/products/wonderink.zh.md)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Sigilo](https://www.zoytown.com/items/sigilo)
+
+![状态](https://img.shields.io/badge/状态-即将上线-9a6b3f) ![平台](https://img.shields.io/badge/平台-iOS-000000?logo=apple&logoColor=white)
+
+**隐私优先的两步验证码,默认全部本地。**
+
+- TOTP 与 HOTP,验证码在本机生成
+- 可选端到端加密同步
+- 文件夹、搜索、Face ID、加密备份
+
+<sub>**适合** · 在 iPhone 上把 2FA 验证码留在自己手里</sub>
+
+[了解更多 →](https://github.com/zuuzii-org/.github/blob/main/profile/products/sigilo.zh.md)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⌨️ [Zprism](https://www.zoytown.com/items/zprism)
+
+![状态](https://img.shields.io/badge/状态-应用-1f6feb) ![平台](https://img.shields.io/badge/平台-macOS-000000?logo=apple&logoColor=white)
+
+**Mac 上的键盘网格启动器与截图工具。**
+
+- 每个按键绑定一个应用、网站或动作
+- 截图、就地标注、文字识别(OCR)
+- 原生、完全本地 —— macOS 15+
+
+<sub>**适合** · 用肌肉记忆启动应用、随手截图</sub>
+
+[了解更多 →](https://github.com/zuuzii-org/.github/blob/main/profile/products/zprism.zh.md)
 
 </td>
 </tr>

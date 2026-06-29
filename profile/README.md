@@ -17,7 +17,7 @@
 
 [![Website](https://img.shields.io/badge/Website-zuuzii.com-1f2328?logo=safari&logoColor=white)](https://zuuzii.com)
 [![Email](https://img.shields.io/badge/Email-hi%40zuuzii.com-ea4335?logo=gmail&logoColor=white)](mailto:hi@zuuzii.com)
-![Products](https://img.shields.io/badge/products-7-3c5a3a)
+![Products](https://img.shields.io/badge/products-9-3c5a3a)
 ![Built in the AI era](https://img.shields.io/badge/built_in-the_AI_era-8a6d3b)
 
 </div>
@@ -32,7 +32,7 @@
 
 ## Products
 
-> Six products live today — a tools directory, two desktop/mobile apps, a developer gateway, an image studio, and AI companions on WeChat.
+> Nine products today — a tools directory, native iOS & macOS apps, a developer gateway, an image studio, AI companions on WeChat, plus a privacy-first authenticator and a keyboard-grid launcher.
 
 <table>
 <tr>
@@ -159,6 +159,42 @@
 <sub>**Good for** · turning photos & sketches into AI art on iPhone</sub>
 
 [Learn more →](https://github.com/zuuzii-org/.github/blob/main/profile/products/wonderink.md)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [Sigilo](https://www.zoytown.com/items/sigilo)
+
+![status](https://img.shields.io/badge/status-COMING_SOON-9a6b3f) ![platform](https://img.shields.io/badge/platform-iOS-000000?logo=apple&logoColor=white)
+
+**Privacy-first two-factor codes, local by default.**
+
+- TOTP & HOTP, generated on-device
+- Optional end-to-end encrypted sync
+- Folders, search, Face ID, encrypted backup
+
+<sub>**Good for** · keeping your 2FA codes private on iPhone</sub>
+
+[Learn more →](https://github.com/zuuzii-org/.github/blob/main/profile/products/sigilo.md)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⌨️ [Zprism](https://www.zoytown.com/items/zprism)
+
+![status](https://img.shields.io/badge/status-APP-1f6feb) ![platform](https://img.shields.io/badge/platform-macOS-000000?logo=apple&logoColor=white)
+
+**A keyboard-grid launcher & screenshot tool for Mac.**
+
+- Bind every key to an app, site, or action
+- Screenshot, annotate in place, and OCR
+- Native and fully local — macOS 15+
+
+<sub>**Good for** · launching and capturing by muscle memory</sub>
+
+[Learn more →](https://github.com/zuuzii-org/.github/blob/main/profile/products/zprism.md)
 
 </td>
 </tr>
